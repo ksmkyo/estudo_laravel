@@ -1,0 +1,26 @@
+// Aula 3 - Rotas e Views
+
+- Route::get('/contact', function () {
+    return view('contact');
+});
+
+- criar um arquivo .blade.php com o nome da pagina 
+  cria uma forma de acessar a pagina pela barra de 
+  link de forma simplificada. 
+
+  ps¹: a pagina que será visualizada fica localiza 
+  na pasta de Views que fica localizada na pasta resources
+
+  ps²: a criação das rotas é feita na pasta "routes"
+
+
+
+
+
+// Aula 4 - Conhecendo o Blade
+- 
+
+
+
+// Aula 9 - Controllers
+- 
